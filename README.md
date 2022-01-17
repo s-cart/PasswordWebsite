@@ -2,4 +2,4 @@ V1.0 support S-Cart 6.4 , core >= 6.4.1
 
 ========= INSTALL =========
 
-Import plugin : https://s-cart.org/en/docs/master/how-to-install-module-extension.html#install-plugin-import
+Link: https://s-cart.org/en/plugin/password-protection-for-website_162693108760f8ff8f36990.html
