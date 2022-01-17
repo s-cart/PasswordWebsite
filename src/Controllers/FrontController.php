@@ -3,7 +3,7 @@
 namespace App\Plugins\Other\PasswordWebsite\Controllers;
 
 use App\Plugins\Other\PasswordWebsite\AppConfig;
-use App\Http\Controllers\RootFrontController;
+use SCart\Core\Front\Controllers\RootFrontController;
 class FrontController extends RootFrontController
 {
     public $plugin;

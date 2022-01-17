@@ -3,7 +3,7 @@
 
 namespace App\Plugins\Other\PasswordWebsite\Admin;
 
-use App\Http\Controllers\RootAdminController;
+use SCart\Core\Admin\Controllers\RootAdminController;
 use App\Plugins\Other\PasswordWebsite\AppConfig;
 
 class AdminController extends RootAdminController
